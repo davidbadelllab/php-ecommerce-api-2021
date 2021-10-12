@@ -1,0 +1,17 @@
+# Symfony
+/var/
+/vendor/
+.env.local
+.env.local.php
+.env.*.local
+
+# Composer
+composer.lock
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
